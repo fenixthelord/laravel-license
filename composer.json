@@ -1,5 +1,5 @@
 {
-    "name": "your-vendor/auth-package",
+    "name": "laravel-license/auth-package",
     "description": "Laravel Sanctum Authentication Package",
     "type": "library",
     "require": {
