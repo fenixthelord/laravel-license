@@ -17,5 +17,7 @@
                 "YourVendor\\AuthPackage\\Providers\\AuthPackageServiceProvider"
             ]
         }
-    }
+    },
+    "license": "MIT"
+
 }
